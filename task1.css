@@ -1,0 +1,158 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(253, 222, 227);
+  }
+  
+  header {
+    background-color:pink; 
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 5px;
+    color: #58514b; 
+  }
+  
+  p {
+    font-size: 1em;
+    color: #100e0e; 
+  }
+  
+.container{
+    margin-left: 35%;
+    padding: 10px;
+    display: flex;
+    gap:20px;
+}
+li{
+  list-style: none;
+}
+  
+  main {
+    padding: 50px;
+  }
+  
+  .cake1{
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  
+  
+  
+  .cake1 h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #222121;
+  }
+  
+  .cake1 a {
+    background-color: #e26767;
+    color: #fff; 
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.2s ease-in-out; 
+  }
+  
+  .cake1 a:hover {
+    background-color: #e56aa1; 
+  }
+  
+  .cake2{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f39494;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.2s ease-in-out; 
+  }
+
+  .cake2 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    margin-bottom: 10px;
+  }
+
+  .cake2:hover {
+    transform: scale(1.05); 
+  }
+  
+  
+  .cake3{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f39494; 
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.2s ease-in-out; 
+  }
+  
+  .cake3 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    margin-bottom: 10px;
+  }
+  
+  .cake3:hover {
+    transform: scale(1.05); 
+  }
+
+  .cake4{
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f39494; 
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.2s ease-in-out; 
+  }
+  
+  .cake4 img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%; 
+    margin-bottom: 10px;
+  }
+  
+  .cake4:hover {
+    transform: scale(1.05); 
+  }
+  
+  .custom {
+    margin-bottom: 50px;
+  }
+
+  .one1{
+    margin-left: 45%;
+  }
+
+  .one{
+    margin-left: 43%;
+  }
+  
+  .feed1 {
+    text-align: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .feed2 {
+    margin: 15px;
+    padding: 15px;
+    border: 1px solid #ed737386; 
+    border-radius: 5px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ee9a9a;
+  }
